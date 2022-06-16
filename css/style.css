@@ -1,0 +1,11 @@
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+@media all and (max-width: 767px){
+    .bannerPanaderia{
+        height: 250px;
+        object-fit: cover;
+    }
+}
